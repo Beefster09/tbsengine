@@ -1,3 +1,3 @@
-package tbsengine
+package engine
 
 type any interface{}

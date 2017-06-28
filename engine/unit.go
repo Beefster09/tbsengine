@@ -1,4 +1,4 @@
-package tbsengine
+package engine
 
 type Unit struct {
 	name      string

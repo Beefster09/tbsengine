@@ -1,4 +1,4 @@
-package tbsengine
+package engine
 
 // GameMap represents a map in game
 type GameMap struct {

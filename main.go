@@ -1,4 +1,4 @@
-package tbsengine
+package main
 
 import "fmt"
 

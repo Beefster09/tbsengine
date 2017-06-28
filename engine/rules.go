@@ -1,4 +1,4 @@
-package tbsengine
+package engine
 
 type AbilityRule interface {
 }

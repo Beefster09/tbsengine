@@ -1,4 +1,4 @@
-package tbsengine
+package engine
 
 // Terrain represents a type of square on a map
 type Terrain struct {
